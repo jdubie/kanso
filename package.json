@@ -12,7 +12,8 @@
         "parser": "0.1.2",
         "underscore": "1.1.7",
         "prompt": "0.1.11",
-        "nano": "*"
+        "nano": "*",
+        "coffee-script": "*"
     },
     "devDependencies": {
         "nodelint": "0.5.2",
